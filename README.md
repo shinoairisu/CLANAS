@@ -156,21 +156,21 @@ addFile(文件名，所属用户)
 ```json
 {
 
-	”name“: "我的电影"，
+	"name": "我的电影"，
     "creatuser":"userid",
 	"list":[
     	{
     	"name":"摇曳露营 第一季",
     	"cover":"封面文件id",
     	"title":["第一集","第二集","第三集","第四集"]
-		"content":[id1,id2,id3,id4] ,
+		"content":["id1","id2","id3","id4"] ,
 		"class":"日常|百合|日本|搞笑"
 		},
 		{
         "name":"素晴 第一季",
     	"cover":"封面文件id",
     	"title":["第一集","第二集","第三集","第四集"]
-		"content":[id1,id2,id3,id4] ,
+		"content":["id1","id2","id3","id4"4] ,
 		"class":"日常|日本|搞笑|动漫"
         }
 	]
@@ -191,9 +191,10 @@ addFile(文件名，所属用户)
     	"name":"日本照片",
     	"cover":"封面文件id",
     	"title":["第一张","第二张","第三张","第四张"]
-		"content":[id1,id2,id3,id4] ,
+		"content":["id1","id2","id3","id4"] ,
 		"class":"旅游"
-		},
+		}
+	]
 }
 ```
 
