@@ -156,7 +156,7 @@ addFile(文件名，所属用户)
 ```json
 {
 
-	"name": "我的电影"，
+	"name": "我的电影",
     "creatuser":"userid",
 	"list":[
     	{
@@ -184,7 +184,7 @@ addFile(文件名，所属用户)
 ```json
 {
 
-	”name“: "我的相册"，
+	"name": "我的相册",
     "creatuser":"userid",
 	"list":[
     	{
